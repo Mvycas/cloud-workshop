@@ -8,6 +8,6 @@ public class DefaultController {
 
     @GetMapping("/")
     String health() {
-        return "Hello world!";
+        return "Hello world! :)";
     }
 }
